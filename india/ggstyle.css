@@ -1,0 +1,13 @@
+.jumbotron{
+    text-align: center;
+    background-color: none;
+}
+.sl{
+    background-color: rgb(224, 222, 222);
+    padding: 2em;
+}
+.sectiondark
+{
+    background-color: rgb(198, 198, 252);
+    padding: 2rem;
+}
